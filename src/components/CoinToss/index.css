@@ -1,0 +1,61 @@
+.background-color {
+  background-image: linear-gradient(to right, #e2a139, #f9d423);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.white-background {
+  background-color: #ffffff;
+  padding: 10px;
+  height: 80vh;
+  width: 80vh;
+  margin: 30px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #a35200;
+  font-size: 35px;
+  font-family: 'Roboto';
+}
+
+.para {
+  color: #334155;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+/* Write your CSS here */
+.image-style {
+  height: 200px;
+  width: 200px;
+}
+
+.button {
+  height: 40px;
+  width: 140px;
+  background-color: #e2a139;
+  color: #a35200;
+  font-size: 18px;
+  font-family: 'Roboto';
+  border-width: 0px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.count-container {
+  display: flex;
+}
+
+.para2 {
+  color: #475569;
+  font-size: 20px;
+  font-family: 'Roboto';
+  padding-left: 40px;
+}
